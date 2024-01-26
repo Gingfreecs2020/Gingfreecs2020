@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeyson Aying
 - 👀 I’m a Junior Software Engineer with years of experience as WordPress Developer
-- 🌱 I’m currently learning modern html, css , php , javascript and bootsrap at the sametime
+- 🌱 I’m currently learning modern html, css , php , javascript, react , WordPress cms,and bootsrap at the sametime.
 - 💞️ I’m looking to collaborate on building e-commerce website with Wordpress cms
 - 📫 Please contact if you want something to share on me on my email jbaying17@gmail.com, thank you and well appreciate any help. god bless!.
 
